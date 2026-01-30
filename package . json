@@ -6,7 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "ws": "^8.15.1"
+    "express": "^4.19.2"
   }
 }
